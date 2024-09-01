@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node start-server.js"
+    },
+    "dependencies": {
+        "open": "^8.0.0"
+    }
+}
