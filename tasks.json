@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+      {
+          "label": "run start-server.js",
+          "type": "shell",
+          "command": "node",
+          "args": [
+              "${workspaceFolder}/node_js_run_configuration/launch-manager.js"
+          ],
+          "group": "build",
+          "problemMatcher": [],
+          "detail": "Run start-server.js script"
+      }
+  ]
+}
